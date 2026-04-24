@@ -7,11 +7,13 @@ This project includes source code files used to show bicubic interpolation for i
 ### MATLAB File
 
 **bicubic_matlab.m**
+
 This script reads an input image, applies bicubic interpolation using MATLAB built-in functions, and displays the original and resized images for comparison.
 
 ### Python File
 
 **bicubic_python.py**
+
 This script uses OpenCV to load an input image, perform bicubic image scaling, and save/display the resized result.
 
 ## Requirements
