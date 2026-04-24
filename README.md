@@ -32,7 +32,7 @@ This script uses OpenCV to load an input image, perform bicubic image scaling, a
 Install OpenCV using:
 
 ```bash
-pip install opencv-python
+pip install opencv-python matplotlib
 ```
 
 ## How to Run
